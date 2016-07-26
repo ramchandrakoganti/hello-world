@@ -5,4 +5,6 @@ Hello, My name is Prasad.
 
 I love reading books.
 
-This change is for identifying the differences between git diff and git diff --cached.
+This statement had been changed to create merge conflict.
+
+This statement will not cause a conflict when merging.
