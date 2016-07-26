@@ -5,6 +5,6 @@ Hello, My name is Prasad.
 
 I love reading books.
 
-This statement had been changed to create merge conflict.
+How does this work?
 
 This statement will not cause a conflict when merging.
