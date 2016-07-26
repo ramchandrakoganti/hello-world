@@ -5,6 +5,6 @@ Hello, My name is Prasad.
 
 I love reading books.
 
-This statement had been changed to create merge conflict.
+This statement has been changed in Mater also. There are two changes to this location, one in each branch..
 
 This statement will not cause a conflict when merging.
